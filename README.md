@@ -5,13 +5,13 @@ The Student Management System is a SQL-based relational database project designe
 
 🎯 Objectives
 
-Maintain student records in a centralized database
+ - Maintain student records in a centralized database
 
-Track course enrollment, marks, and attendance
+ - Track course enrollment, marks, and attendance
 
-Retrieve information instantly using optimized SQL queries
+- Retrieve information instantly using optimized SQL queries
 
-Generate academic performance insights for decision-making
+- Generate academic performance insights for decision-making
 
 🗂️ Key Features
 Feature	Description
