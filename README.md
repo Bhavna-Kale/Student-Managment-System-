@@ -1,9 +1,9 @@
 # Student Management System
-📌  Project Overview 
+## 📌  Project Overview 
 
-The Student Management System is a SQL-based relational database project designed to store and manage student information efficiently. It eliminates manual record-keeping and enables fast, accurate data retrieval for educational institutions.
+**The Student Management System is a SQL-based relational database project designed to store and manage student information efficiently. It eliminates manual record-keeping and enables fast, accurate data retrieval for educational institutions.**
 
-🎯 Objectives
+## 🎯 Objectives
 
  - Maintain student records in a centralized database
 
@@ -12,8 +12,8 @@ The Student Management System is a SQL-based relational database project designe
 - Retrieve information instantly using optimized SQL queries
 
 - Generate academic performance insights for decision-making
-
-🗂️ Key features
+----
+## 🗂️ Key features
 Feature	Description
 
 - 👤 Student Registration	Stores complete student information
@@ -23,7 +23,7 @@ Feature	Description
 - 🔍 Advanced Search	Fetch data using filters & conditions
 - 🛠️ Tools & Technologies
  ----
-  SQL / MySQL
+##  SQL / MySQL
 
 - Joins
 
@@ -35,7 +35,8 @@ Feature	Description
 
 - Stored Queries for Analytics
 ---
--- 🧾 Database Schema (Tables)
+-- 
+## 🧾 Database Schema (Tables)
 - Table Name	Purpose
 - students	Stores student basic details
 - courses	Contains course information
@@ -43,7 +44,7 @@ Feature	Description
 - marks	Stores exam scores
 - attendance	Tracks student attendance
 ---
-  🔍 SQL Operations Used
+ ## 🔍 SQL Operations Used
 
 - CREATE TABLE — Define database structure
 
@@ -54,7 +55,7 @@ Feature	Description
 - DELETE — Remove records
 
 - SELECT — Retrieve data
-----
+ 
 - JOIN — Combine multiple tables
 
 - GROUP BY — Generate summarized insights
@@ -62,7 +63,7 @@ Feature	Description
 - ORDER BY — Sort results
 
 ---
-📌 Sample Insights Generated
+## 📌 Sample Insights Generated
 
 ⭐ Top performing students based on marks
 
@@ -72,7 +73,7 @@ Feature	Description
 
 ⭐ List of students needing academic support 
 
-🚀 Project Outcome
+## 🚀 Project Outcome
 
 - This project demonstrates the ability to:
 
