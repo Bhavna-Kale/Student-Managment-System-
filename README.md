@@ -1,5 +1,5 @@
 # Student Management System
-📌 # Project Overview #
+📌  Project Overview 
 
 The Student Management System is a SQL-based relational database project designed to store and manage student information efficiently. It eliminates manual record-keeping and enables fast, accurate data retrieval for educational institutions.
 
@@ -23,7 +23,7 @@ Feature	Description
 - 🔍 Advanced Search	Fetch data using filters & conditions
 - 🛠️ Tools & Technologies
  ----
- - SQL / MySQL
+  SQL / MySQL
 
 - Joins
 
@@ -43,9 +43,8 @@ Feature	Description
 - marks	Stores exam scores
 - attendance	Tracks student attendance
 ---
-- 🔍 SQL Operations Used
+  🔍 SQL Operations Used
 
--
 - CREATE TABLE — Define database structure
 
 - INSERT — Add new records
@@ -71,8 +70,7 @@ Feature	Description
 
 ⭐ Attendance percentage of each student
 
-⭐ List of students needing academic support
-----
+⭐ List of students needing academic support 
 
 🚀 Project Outcome
 
